@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Model Forge- The Ultimate Data Science Engine**
 
-- 🌱 I’m currently learning **React Frameworks, Data Science, Artificial Intelligence and Machine Learning.**
+- 🌱 I’m currently learning **UI/UX Designing, Frontend Development and Machine Learning.**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Human Centered Designing**
 
 - 📫 How to reach me **lavanyamurudkar28@gmail.com**
 
-- ⚡ Fun fact **I think I can sing well!**
+- ⚡ Fun fact **I think I can play flute well!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
